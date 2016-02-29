@@ -8,7 +8,6 @@
 * Organize a natural language sentence by evaluating from a syntax tree; manipulate a syntax tree. (HW1)
 
 * Details see specifications in each subdirectories. (HW*.pdf)
-
-+ File "submit.lsp" or "saved.lsp" is usually the final code I submitted, the latter one is without comments.
-+ File "data.lsp" is usually the data file for testing coming from the "Sentence representation.pdf" as specification.
-+ File "testscript.lsp" and "HW-*-solution.lsp" is provided by TA.
+  + File "submit.lsp" or "saved.lsp" is usually the final code I submitted, the latter one is without comments.
+  + File "data.lsp" is usually the data file for testing coming from the "Sentence representation.pdf" as specification.
+  + File "testscript.lsp" and "HW-*-solution.lsp" is provided by TA.
